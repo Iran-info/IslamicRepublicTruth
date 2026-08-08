@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sample-en-welcome", "translationGroup": "welcome", "locale": "en", "slug": "why-azad-exists",
+    "title": "Why Azad exists", "deck": "A journal can be calm without being neutral, and forceful without becoming careless.",
+    "body": "## A place for complete thoughts\n\nSome arguments cannot survive the speed of a timeline. They need room: for context, evidence, uncertainty and the uncomfortable detail that changes a conclusion.\n\nAzad was built for that room. It is a bilingual journal for essays that take their readers seriously.\n\n## Open disagreement\n\nThe discussion beneath each article is part of the article itself. Readers can challenge a premise, correct a source and test an idea. The standard is simple: be exact with claims and decent with people.",
+    "category": "Editor’s note", "author": "Azad Journal", "coverKey": null, "coverTone": "sage", "issue": "01", "status": "published",
+    "publishedAt": "2026-08-01T12:00:00.000Z", "createdAt": "2026-07-28T12:00:00.000Z", "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "id": "sample-en-disagreement", "translationGroup": "disagreement", "locale": "en", "slug": "the-discipline-of-disagreement",
+    "title": "The discipline of disagreement", "deck": "Strong debate begins when we stop confusing certainty with accuracy.",
+    "body": "## Friction can be useful\n\nA serious disagreement exposes the load-bearing parts of an argument. It tells us which evidence matters and which assumptions were hiding in plain sight.\n\nThe goal is not artificial politeness. It is clarity. A sharp reply can still quote accurately, answer the strongest version of a claim and leave private lives outside the fight.\n\n## A better comment room\n\nGood moderation does not protect opinions from criticism. It protects the conditions that make criticism possible: relevance, safety and a minimum of mutual recognition.",
+    "category": "Ideas", "author": "Azad Journal", "coverKey": null, "coverTone": "clay", "issue": "02", "status": "published",
+    "publishedAt": "2026-07-24T12:00:00.000Z", "createdAt": "2026-07-28T12:00:00.000Z", "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "id": "sample-fa-welcome", "translationGroup": "welcome", "locale": "fa", "slug": "چرا-آزاد",
+    "title": "چرا «آزاد» شکل گرفت", "deck": "یک نشریه می‌تواند آرام باشد بی‌آنکه خنثی شود، و محکم بنویسد بی‌آنکه دقت را قربانی کند.",
+    "body": "## جایی برای اندیشهٔ کامل\n\nبعضی استدلال‌ها در شتاب شبکه‌های اجتماعی دوام نمی‌آورند. آن‌ها به فضا نیاز دارند؛ برای زمینه، سند، تردید و آن جزئیات ناخوشایندی که ممکن است نتیجه را تغییر دهد.\n\n«آزاد» برای ساختن همین فضا شکل گرفته است؛ نشریه‌ای دوزبانه برای مقاله‌هایی که خواننده را جدی می‌گیرند.\n\n## اختلاف‌نظر آزاد\n\nگفت‌وگوی زیر هر مقاله، بخشی از خود مقاله است. خوانندگان می‌توانند یک فرض را به چالش بکشند، منبعی را اصلاح کنند و استدلالی را بیازمایند.",
+    "category": "یادداشت سردبیر", "author": "نشریه آزاد", "coverKey": null, "coverTone": "sage", "issue": "۰۱", "status": "published",
+    "publishedAt": "2026-08-01T12:00:00.000Z", "createdAt": "2026-07-28T12:00:00.000Z", "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "id": "sample-fa-disagreement", "translationGroup": "disagreement", "locale": "fa", "slug": "انضباط-اختلاف-نظر",
+    "title": "انضباطِ اختلاف‌نظر", "deck": "گفت‌وگوی جدی از جایی آغاز می‌شود که یقین را با دقت اشتباه نگیریم.",
+    "body": "## اصطکاک می‌تواند مفید باشد\n\nیک اختلاف‌نظر جدی، بخش‌های اصلی یک استدلال را آشکار می‌کند. نشان می‌دهد کدام سند اهمیت دارد و کدام پیش‌فرض تا امروز پنهان مانده بود.\n\nهدف، ادب نمایشی نیست؛ هدف روشنی است. یک پاسخ تند هم می‌تواند نقل‌قول را دقیق بیاورد، به قوی‌ترین صورتِ استدلال پاسخ دهد و زندگی خصوصی افراد را از میدان بحث بیرون نگه دارد.\n\n## اتاق گفت‌وگویی بهتر\n\nمدیریت خوب قرار نیست دیدگاه‌ها را از نقد محافظت کند. وظیفه‌اش حفظ شرایطی است که نقد را ممکن می‌کند.",
+    "category": "اندیشه", "author": "نشریه آزاد", "coverKey": null, "coverTone": "clay", "issue": "۰۲", "status": "published",
+    "publishedAt": "2026-07-24T12:00:00.000Z", "createdAt": "2026-07-28T12:00:00.000Z", "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]
